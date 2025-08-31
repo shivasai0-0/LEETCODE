@@ -69,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/shivasai0-0/LEETCODE/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivasai0-0/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/shivasai0-0/LEETCODE/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 ## Memoization
 |  |
