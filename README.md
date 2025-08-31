@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivasai0-0/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivasai0-0/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0001-two-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
