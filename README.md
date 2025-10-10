@@ -171,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shivasai0-0/LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
