@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shivasai0-0/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivasai0-0/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/shivasai0-0/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shivasai0-0/LEETCODE/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
@@ -130,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivasai0-0/LEETCODE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 ## Greedy
 |  |
