@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shivasai0-0/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/shivasai0-0/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivasai0-0/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivasai0-0/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
