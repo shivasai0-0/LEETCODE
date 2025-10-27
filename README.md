@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivasai0-0/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shivasai0-0/LEETCODE/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivasai0-0/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
