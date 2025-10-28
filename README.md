@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivasai0-0/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivasai0-0/LEETCODE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/shivasai0-0/LEETCODE/tree/master/0792-binary-search) |
 ## Array
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/shivasai0-0/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivasai0-0/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shivasai0-0/LEETCODE/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
