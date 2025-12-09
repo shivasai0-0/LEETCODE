@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/shivasai0-0/LEETCODE/tree/master/0506-relative-ranks) |
+| [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/shivasai0-0/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/shivasai0-0/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
@@ -281,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivasai0-0/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
