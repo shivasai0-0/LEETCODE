@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shivasai0-0/LEETCODE/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Linked List
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/shivasai0-0/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/shivasai0-0/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivasai0-0/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -283,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
