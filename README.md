@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivasai0-0/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivasai0-0/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivasai0-0/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shivasai0-0/LEETCODE/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shivasai0-0/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivasai0-0/LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## String
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
