@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
@@ -291,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
