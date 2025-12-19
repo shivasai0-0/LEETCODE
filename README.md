@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivasai0-0/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/shivasai0-0/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shivasai0-0/LEETCODE/tree/master/0733-flood-fill) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/shivasai0-0/LEETCODE/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/shivasai0-0/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
@@ -323,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shivasai0-0/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shivasai0-0/LEETCODE/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shivasai0-0/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
