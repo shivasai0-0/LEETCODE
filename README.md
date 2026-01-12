@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivasai0-0/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivasai0-0/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivasai0-0/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1049-last-stone-weight-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivasai0-0/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
