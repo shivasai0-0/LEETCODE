@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/shivasai0-0/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivasai0-0/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivasai0-0/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivasai0-0/LEETCODE/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/shivasai0-0/LEETCODE/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
