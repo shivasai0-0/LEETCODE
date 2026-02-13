@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/shivasai0-0/LEETCODE/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/shivasai0-0/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/shivasai0-0/LEETCODE/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shivasai0-0/LEETCODE/tree/master/0792-binary-search) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shivasai0-0/LEETCODE/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/shivasai0-0/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0860-lemonade-change) |
 ## Breadth-First Search
