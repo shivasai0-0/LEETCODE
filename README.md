@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shivasai0-0/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivasai0-0/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
@@ -458,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
