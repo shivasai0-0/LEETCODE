@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivasai0-0/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/shivasai0-0/LEETCODE/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/shivasai0-0/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivasai0-0/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
