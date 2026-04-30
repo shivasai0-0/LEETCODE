@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/shivasai0-0/LEETCODE/tree/master/0506-relative-ranks) |
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
