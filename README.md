@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivasai0-0/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/shivasai0-0/LEETCODE/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shivasai0-0/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shivasai0-0/LEETCODE/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0063-unique-paths-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivasai0-0/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/shivasai0-0/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shivasai0-0/LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0063-unique-paths-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shivasai0-0/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/shivasai0-0/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shivasai0-0/LEETCODE/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
