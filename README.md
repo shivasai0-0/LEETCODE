@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivasai0-0/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/shivasai0-0/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shivasai0-0/LEETCODE/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivasai0-0/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/shivasai0-0/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 ## Matrix
 |  |
 | ------- |
