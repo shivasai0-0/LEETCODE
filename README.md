@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/shivasai0-0/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivasai0-0/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivasai0-0/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1854-maximum-population-year](https://github.com/shivasai0-0/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/shivasai0-0/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
+| [1854-maximum-population-year](https://github.com/shivasai0-0/LEETCODE/tree/master/1854-maximum-population-year) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shivasai0-0/LEETCODE/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Greedy
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivasai0-0/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1854-maximum-population-year](https://github.com/shivasai0-0/LEETCODE/tree/master/1854-maximum-population-year) |
 ## Sliding Window
 |  |
 | ------- |
