@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shivasai0-0/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/shivasai0-0/LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivasai0-0/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivasai0-0/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shivasai0-0/LEETCODE/tree/master/0506-relative-ranks) |
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
+| [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shivasai0-0/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivasai0-0/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
+| [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/shivasai0-0/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/shivasai0-0/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/shivasai0-0/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/shivasai0-0/LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivasai0-0/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1854-maximum-population-year](https://github.com/shivasai0-0/LEETCODE/tree/master/1854-maximum-population-year) |
