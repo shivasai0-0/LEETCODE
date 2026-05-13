@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shivasai0-0/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/shivasai0-0/LEETCODE/tree/master/0343-integer-break) |
+| [0598-range-addition-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/shivasai0-0/LEETCODE/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
+| [0598-range-addition-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/shivasai0-0/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivasai0-0/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
