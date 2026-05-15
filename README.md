@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivasai0-0/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shivasai0-0/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/shivasai0-0/LEETCODE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shivasai0-0/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/shivasai0-0/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivasai0-0/LEETCODE/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shivasai0-0/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shivasai0-0/LEETCODE/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shivasai0-0/LEETCODE/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
