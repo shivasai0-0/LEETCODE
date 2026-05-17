@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/shivasai0-0/LEETCODE/tree/master/1109-corporate-flight-bookings) |
+| [1306-jump-game-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivasai0-0/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivasai0-0/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivasai0-0/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/shivasai0-0/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivasai0-0/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1306-jump-game-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivasai0-0/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shivasai0-0/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivasai0-0/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shivasai0-0/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivasai0-0/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shivasai0-0/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
