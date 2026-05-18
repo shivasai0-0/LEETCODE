@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shivasai0-0/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivasai0-0/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivasai0-0/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/shivasai0-0/LEETCODE/tree/master/0343-integer-break) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivasai0-0/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
 ## Prefix Sum
