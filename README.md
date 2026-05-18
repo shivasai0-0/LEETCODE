@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shivasai0-0/LEETCODE/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/shivasai0-0/LEETCODE/tree/master/0343-integer-break) |
+| [0372-super-pow](https://github.com/shivasai0-0/LEETCODE/tree/master/0372-super-pow) |
 | [0598-range-addition-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shivasai0-0/LEETCODE/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/shivasai0-0/LEETCODE/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
