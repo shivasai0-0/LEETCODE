@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/shivasai0-0/LEETCODE/tree/master/0343-integer-break) |
 | [0372-super-pow](https://github.com/shivasai0-0/LEETCODE/tree/master/0372-super-pow) |
 | [0598-range-addition-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0598-range-addition-ii) |
+| [1175-prime-arrangements](https://github.com/shivasai0-0/LEETCODE/tree/master/1175-prime-arrangements) |
 ## Recursion
 |  |
 | ------- |
