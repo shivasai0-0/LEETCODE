@@ -26,11 +26,11 @@ class Solution {
 
         // If exp is ODD
         if (exp % 2 != 0) {
-            return (base * yourRecursivePow(base, exp - 1)) % 1337;
+            return (base%1337 * yourRecursivePow(base, exp - 1)%1337) % 1337;
         } 
         // If exp is EVEN
         else {
-            long halfResult = yourRecursivePow(base, exp / 2);
+            long halfResult = yourRecursivePow(base, exp / 2)%1337;
             return (halfResult * halfResult) % 1337;
         }
     }
