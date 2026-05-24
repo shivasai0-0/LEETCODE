@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/shivasai0-0/LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1306-jump-game-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/shivasai0-0/LEETCODE/tree/master/1340-jump-game-v) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shivasai0-0/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivasai0-0/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivasai0-0/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivasai0-0/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/1049-last-stone-weight-ii) |
+| [1340-jump-game-v](https://github.com/shivasai0-0/LEETCODE/tree/master/1340-jump-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivasai0-0/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 | [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
+| [1340-jump-game-v](https://github.com/shivasai0-0/LEETCODE/tree/master/1340-jump-game-v) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2784-check-if-array-is-good](https://github.com/shivasai0-0/LEETCODE/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
