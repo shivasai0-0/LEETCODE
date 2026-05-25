@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/1049-last-stone-weight-ii) |
 | [1340-jump-game-v](https://github.com/shivasai0-0/LEETCODE/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivasai0-0/LEETCODE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
+| [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/shivasai0-0/LEETCODE/tree/master/1109-corporate-flight-bookings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivasai0-0/LEETCODE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1854-maximum-population-year](https://github.com/shivasai0-0/LEETCODE/tree/master/1854-maximum-population-year) |
+| [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Sliding Window
 |  |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
 ## Union Find
 |  |
 | ------- |
