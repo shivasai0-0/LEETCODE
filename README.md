@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shivasai0-0/LEETCODE/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/shivasai0-0/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shivasai0-0/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0061-rotate-list) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shivasai0-0/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -663,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shivasai0-0/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
