@@ -7,7 +7,7 @@ class Solution {
         while(an>=0&&bn>=0){
             int num=a.charAt(an)+b.charAt(bn)+carry-'0'-'0';
             carry=num/2;
-            sb.append(Integer.toString(num%2));
+            sb.append((char)((num % 2) + '0'));
             an--;
             bn--;
             
@@ -15,17 +15,17 @@ class Solution {
         while(an>=0){
             int num=a.charAt(an)-'0'+carry;
             carry=num/2;
-            sb.append(Integer.toString(num%2));
+            sb.append((char)((num % 2) + '0'));
             an--;
         }
         while(bn>=0){
             int num=b.charAt(bn)-'0'+carry;
             carry=num/2;
-            sb.append(Integer.toString(num%2));
+            sb.append((char)((num % 2) + '0'));
             bn--;
         }
         if(carry!=0){
-            sb.append(Integer.toString(carry));
+           sb.append((char)(carry + '0'));
         }
         return sb.reverse().toString();
 
