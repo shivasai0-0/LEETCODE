@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/shivasai0-0/LEETCODE/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/shivasai0-0/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
