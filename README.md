@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shivasai0-0/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shivasai0-0/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shivasai0-0/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shivasai0-0/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shivasai0-0/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shivasai0-0/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shivasai0-0/LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/shivasai0-0/LEETCODE/tree/master/0190-reverse-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivasai0-0/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shivasai0-0/LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shivasai0-0/LEETCODE/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/shivasai0-0/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shivasai0-0/LEETCODE/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/shivasai0-0/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shivasai0-0/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
