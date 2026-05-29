@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0598-range-addition-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shivasai0-0/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [1175-prime-arrangements](https://github.com/shivasai0-0/LEETCODE/tree/master/1175-prime-arrangements) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/shivasai0-0/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shivasai0-0/LEETCODE/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
