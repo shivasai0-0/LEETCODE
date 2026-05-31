@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivasai0-0/LEETCODE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/shivasai0-0/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/shivasai0-0/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/shivasai0-0/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/shivasai0-0/LEETCODE/tree/master/2540-minimum-common-value) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 | [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1340-jump-game-v](https://github.com/shivasai0-0/LEETCODE/tree/master/1340-jump-game-v) |
+| [2126-destroying-asteroids](https://github.com/shivasai0-0/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2784-check-if-array-is-good](https://github.com/shivasai0-0/LEETCODE/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0860-lemonade-change) |
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
+| [2126-destroying-asteroids](https://github.com/shivasai0-0/LEETCODE/tree/master/2126-destroying-asteroids) |
 ## Breadth-First Search
 |  |
 | ------- |
