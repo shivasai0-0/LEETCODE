@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/shivasai0-0/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/shivasai0-0/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2540-minimum-common-value](https://github.com/shivasai0-0/LEETCODE/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/shivasai0-0/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shivasai0-0/LEETCODE/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/shivasai0-0/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2784-check-if-array-is-good](https://github.com/shivasai0-0/LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0860-lemonade-change) |
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
 | [2126-destroying-asteroids](https://github.com/shivasai0-0/LEETCODE/tree/master/2126-destroying-asteroids) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
 |  |
 | ------- |
