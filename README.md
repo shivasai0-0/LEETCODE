@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivasai0-0/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivasai0-0/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/shivasai0-0/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/shivasai0-0/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/shivasai0-0/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2126-destroying-asteroids](https://github.com/shivasai0-0/LEETCODE/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivasai0-0/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/shivasai0-0/LEETCODE/tree/master/2540-minimum-common-value) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivasai0-0/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/shivasai0-0/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shivasai0-0/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shivasai0-0/LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 ## Matrix
