@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/shivasai0-0/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
 | [1175-prime-arrangements](https://github.com/shivasai0-0/LEETCODE/tree/master/1175-prime-arrangements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0783-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivasai0-0/LEETCODE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shivasai0-0/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
