@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shivasai0-0/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shivasai0-0/LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/shivasai0-0/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivasai0-0/LEETCODE/tree/master/0066-plus-one) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/shivasai0-0/LEETCODE/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/shivasai0-0/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shivasai0-0/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
