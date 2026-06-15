@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivasai0-0/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/shivasai0-0/LEETCODE/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/shivasai0-0/LEETCODE/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shivasai0-0/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shivasai0-0/LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/shivasai0-0/LEETCODE/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/shivasai0-0/LEETCODE/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivasai0-0/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Monotonic Stack
