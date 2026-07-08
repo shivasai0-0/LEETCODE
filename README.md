@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shivasai0-0/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shivasai0-0/LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivasai0-0/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shivasai0-0/LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivasai0-0/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/shivasai0-0/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivasai0-0/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
 |  |
