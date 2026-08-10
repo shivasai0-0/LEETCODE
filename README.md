@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/shivasai0-0/LEETCODE/tree/master/0343-integer-break) |
 | [0372-super-pow](https://github.com/shivasai0-0/LEETCODE/tree/master/0372-super-pow) |
+| [0441-arranging-coins](https://github.com/shivasai0-0/LEETCODE/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/shivasai0-0/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0598-range-addition-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/shivasai0-0/LEETCODE/tree/master/0952-largest-component-size-by-common-factor) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivasai0-0/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/shivasai0-0/LEETCODE/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/shivasai0-0/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/shivasai0-0/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
