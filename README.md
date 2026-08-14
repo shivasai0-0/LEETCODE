@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/shivasai0-0/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivasai0-0/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivasai0-0/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/shivasai0-0/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
 | [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivasai0-0/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/shivasai0-0/LEETCODE/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivasai0-0/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union Find
 |  |
 | ------- |
