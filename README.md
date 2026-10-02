@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivasai0-0/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0045-jump-game-ii) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shivasai0-0/LEETCODE/tree/master/0038-count-and-say) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/shivasai0-0/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/shivasai0-0/LEETCODE/tree/master/0051-n-queens) |
@@ -758,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivasai0-0/LEETCODE/tree/master/0486-predict-the-winner) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
