@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shivasai0-0/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivasai0-0/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivasai0-0/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivasai0-0/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shivasai0-0/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivasai0-0/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivasai0-0/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/shivasai0-0/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivasai0-0/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0860-lemonade-change) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
 | [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -766,4 +770,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
