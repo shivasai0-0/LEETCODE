@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivasai0-0/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/shivasai0-0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shivasai0-0/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shivasai0-0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/shivasai0-0/LEETCODE/tree/master/0303-range-sum-query-immutable) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivasai0-0/LEETCODE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivasai0-0/LEETCODE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/shivasai0-0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0414-third-maximum-number) |
