@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/shivasai0-0/LEETCODE/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivasai0-0/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/shivasai0-0/LEETCODE/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
+| [0575-distribute-candies](https://github.com/shivasai0-0/LEETCODE/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/shivasai0-0/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/shivasai0-0/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
