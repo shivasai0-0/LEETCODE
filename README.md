@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shivasai0-0/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivasai0-0/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivasai0-0/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivasai0-0/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivasai0-0/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/shivasai0-0/LEETCODE/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivasai0-0/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
 | [2126-destroying-asteroids](https://github.com/shivasai0-0/LEETCODE/tree/master/2126-destroying-asteroids) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivasai0-0/LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivasai0-0/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1702-maximum-binary-string-after-change](https://github.com/shivasai0-0/LEETCODE/tree/master/1702-maximum-binary-string-after-change) |
 | [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -783,4 +786,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivasai0-0/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
