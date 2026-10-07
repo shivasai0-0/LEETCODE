@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shivasai0-0/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivasai0-0/LEETCODE/tree/master/0547-number-of-provinces) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/shivasai0-0/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0856-score-of-parentheses) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shivasai0-0/LEETCODE/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/shivasai0-0/LEETCODE/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
