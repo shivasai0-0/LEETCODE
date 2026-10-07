@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivasai0-0/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shivasai0-0/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/shivasai0-0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivasai0-0/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivasai0-0/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shivasai0-0/LEETCODE/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/shivasai0-0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shivasai0-0/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivasai0-0/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/shivasai0-0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/shivasai0-0/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/shivasai0-0/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivasai0-0/LEETCODE/tree/master/0733-flood-fill) |
