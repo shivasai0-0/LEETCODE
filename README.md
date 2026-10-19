@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/shivasai0-0/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/shivasai0-0/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivasai0-0/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/shivasai0-0/LEETCODE/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/shivasai0-0/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Binary Search
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shivasai0-0/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivasai0-0/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0322-coin-change) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivasai0-0/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shivasai0-0/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/shivasai0-0/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0392-is-subsequence) |
@@ -807,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivasai0-0/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
