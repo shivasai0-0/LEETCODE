@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivasai0-0/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivasai0-0/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/shivasai0-0/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivasai0-0/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/shivasai0-0/LEETCODE/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/shivasai0-0/LEETCODE/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/shivasai0-0/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shivasai0-0/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/shivasai0-0/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
+| [0392-is-subsequence](https://github.com/shivasai0-0/LEETCODE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivasai0-0/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/shivasai0-0/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivasai0-0/LEETCODE/tree/master/0856-score-of-parentheses) |
