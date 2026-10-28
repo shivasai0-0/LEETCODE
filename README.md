@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shivasai0-0/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2762-continuous-subarrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2762-continuous-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/shivasai0-0/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivasai0-0/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivasai0-0/LEETCODE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/shivasai0-0/LEETCODE/tree/master/0948-sort-an-array) |
 | [1094-car-pooling](https://github.com/shivasai0-0/LEETCODE/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/shivasai0-0/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [2762-continuous-subarrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2762-continuous-subarrays) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shivasai0-0/LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shivasai0-0/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivasai0-0/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/shivasai0-0/LEETCODE/tree/master/1871-jump-game-vii) |
+| [2762-continuous-subarrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2762-continuous-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivasai0-0/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union Find
 |  |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/shivasai0-0/LEETCODE/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2762-continuous-subarrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2762-continuous-subarrays) |
 ## Number Theory
 |  |
 | ------- |
@@ -827,4 +831,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivasai0-0/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2762-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/shivasai0-0/LEETCODE/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
